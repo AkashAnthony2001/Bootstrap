@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik|Poppins&display=swap');
+*{
+    padding: 0;
+    margin:0;
+}
+body{
+    font-family:'Poppins',sans-serif !important;    
+}
+.card{
+    font-family: 'Rubik',sans-serif !important;
+}
+.card-title{
+    font-size:13px;
+}
+.list-group{
+    font-weight:700;
+    font-size:18px;
+}
+.section{
+    padding:50px 0px 0px 0px ;
+}
+.card-text{
+    font-weight:700;
+    font-size:18px;
+}
